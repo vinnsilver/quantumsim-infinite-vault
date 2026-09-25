@@ -1,0 +1,8 @@
+{
+  "name": "QuantumSIM Infinite Vault",
+  "description": "An ultra-secure quantum SIM card vault holding millions of contacts, files, documents, passwords, and photos with sci-fi holographic launch sequence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
